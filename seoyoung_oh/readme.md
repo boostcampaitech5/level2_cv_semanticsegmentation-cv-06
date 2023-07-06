@@ -4,7 +4,7 @@ image resolution: input 512x512 output 512x512
 interpolation: 2048
 
 # train_deepsup2.py
-the same except for the purpose(augmentation experiments)
+the same above except for the training purpose(augmentation experiments)
 
 # train_2048_deepsup.py
 unet 3+  
@@ -15,7 +15,7 @@ added convolutional network for interpolation
 unet 3+  
 image resolution: input 512x512 output 2048x2048 </br>
 added convolutional network for interpolation </br>
-the same except for the purpose(group k-fold ensemble)
+the same above except for the training purpose(group k-fold ensemble)
 
 # train_eff_2048.py
 unet 3+  
